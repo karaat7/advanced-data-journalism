@@ -13,9 +13,9 @@ soup = BeautifulSoup(html, "html.parser")
 targeting_attributes = {'class': 'accidentOutput'}
 accident_table = soup.find('table', targeting_attributes)
 
-# Grab the rows from the table, represented as a list
+# # Grab the rows from the table, represented as a list
 row_list = accident_table.find_all('tr')
 
-# Loop over the rows and print them one at a time
+# # Loop over the rows and print them one at a time
 for row in row_list:
     print row.text
