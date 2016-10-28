@@ -5,4 +5,4 @@ This time your task will be to write a simple scraper to grab live election nigh
 
 Specifically, you'll be asked to scrape all the county-by-county results for the 2016 presidential primary race and save them to a CSV.
 
-Again, once you're done, you should check the results into your Github account, using either a new repository or a single repository dedicated to all of your assignments. The assignment will be due next Friday, Nov. 4.
+Again, once you're done, you should check the results into your Github account, using either a new repository or a single repository dedicated to all of your assignments. The assignment will be due Monday, Nov. 7.
